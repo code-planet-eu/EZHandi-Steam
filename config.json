@@ -1,6 +1,15 @@
 {
   "discordId": "",
+
   "askForContinue": true,
+
   "useCapsolver": false,
-  "capsolverToken": ""
+  "capsolverToken": "",
+
+  "proxy": {
+    "enabled": false,
+    "server": "http://109.236.93.143:14836",
+    "username": "usernmae",
+    "password": "pass"
+  }
 }
